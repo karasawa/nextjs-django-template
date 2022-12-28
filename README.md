@@ -7,7 +7,7 @@ nextjsとdjangoで開発する用のテンプレート
 -------------------
 
 【前提】
-1.
+# 1.
 docker-compose.ymlのある階層で、以下コマンド実行
 docker compose up -d
 
